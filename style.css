@@ -1,0 +1,63 @@
+.row {
+	font-size: 15px;
+}
+
+.row div input {
+	font-size: 15px;
+}
+
+.container {
+	background-color: rgb(126, 138, 127);
+	border: 5px solid rgb(1, 100, 6);
+	border-radius: 1%;
+
+	max-width: 98%;
+	margin: 3 auto !important;
+}
+
+.form-group {
+	padding: 5px !important;
+}
+
+.row div label {
+	color:rgb(20, 19, 20);
+}
+
+.pull-right{
+	text-align: right;
+}
+
+.modal-content {
+	background-color: rgb(126, 138, 127);
+	border: 5px solid rgb(1, 100, 6);
+	border-radius: 1%;
+}
+
+.modal-dialog {
+	max-width: 98%; /*largura da modal*/
+	margin: 3 auto !important; /*centralizar modal horizontalmente*/
+	border-radius: 1%;
+}
+
+.filial-dados {
+	padding-left: 20px;
+	margin: 3 auto !important;
+}
+
+.pull-right {
+	text-align: right;
+}
+
+#ovBTN_Login {
+	margin-top: 10px;	
+}
+
+#container-login {
+	padding-left: 40%;
+	padding-right: 40%;
+}
+
+#ast {
+	font-size: 20px;
+	color: brown;
+}
